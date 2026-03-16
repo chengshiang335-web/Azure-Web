@@ -1,1 +1,8 @@
-prompt 
+給我三個頁面
+1.index.htm
+2.pl.htm
+3.dp.htm
+
+# index.htm 介紹資料工程 資料分析與資料科學三個領域的工作特色與差異
+# pl.htm 介紹資料工程 微軟認證PL系列->power 平台  考試方試與適合的人
+# dp.htm 介紹資料工程 微軟認證dp系列->Database 平台  考試方試與適合的人
